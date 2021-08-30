@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Ferreteria.Models.Cliente>
+
+@{ ViewData["Title"] = "Listado de Clientes"; }
+
+<h1 class="text-center"><i class="fas fa-users"></i>Listado de Clientes</h1>
+
+<table class="table" id="tblClientes">
+    <thead class="thead-light">
+        <tr>
+            <th>Nombre</th>
+            <th>Apellidos</th>
+            <th>Teléfono</th>
+            <th>Correo electrónico</th>
+            <th>
+                <a onclick="ShowPopup('@Url.Action("Upsert", "Cliente", null, Context.Request.Scheme)','Nuevo Cliente')" class="btn btn-success text-white">Nuevo Cliente</a>
+            </th>
+        </tr>
+    </thead>
+</table>
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+}

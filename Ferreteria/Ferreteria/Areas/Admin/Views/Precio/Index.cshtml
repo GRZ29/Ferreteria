@@ -1,0 +1,23 @@
+﻿@model IEnumerable<Ferreteria.Models.ViewModels.PrecioViewModel>
+
+@{ ViewData["Title"] = "Listado de Calculos"; }
+
+<h1 class="text-center"><i class="fas fa-money-check-alt"></i>Listado de Cálculos</h1>
+
+<table class="table" id="tblCalculos">
+    <thead class="thead-light">
+        <tr>
+            <th>Trabajo</th>
+            <th>Precio Total</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+</table>
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+    <script type="text/javascript" src="~/js/precio.js"></script>
+}
+
+

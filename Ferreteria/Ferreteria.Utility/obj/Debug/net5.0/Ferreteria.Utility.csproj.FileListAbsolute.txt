@@ -1,0 +1,36 @@
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.Utility\bin\Debug\net5.0\Ferreteria.Utility.deps.json
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.Utility\bin\Debug\net5.0\Ferreteria.Utility.dll
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.Utility\bin\Debug\net5.0\ref\Ferreteria.Utility.dll
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.Utility\bin\Debug\net5.0\Ferreteria.Utility.pdb
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.Utility\obj\Debug\net5.0\Ferreteria.Utility.csprojAssemblyReference.cache
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.Utility\obj\Debug\net5.0\Ferreteria.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.Utility\obj\Debug\net5.0\Ferreteria.Utility.AssemblyInfoInputs.cache
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.Utility\obj\Debug\net5.0\Ferreteria.Utility.AssemblyInfo.cs
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.Utility\obj\Debug\net5.0\Ferreteria.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.Utility\obj\Debug\net5.0\Ferreteria.Utility.dll
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.Utility\obj\Debug\net5.0\ref\Ferreteria.Utility.dll
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.Utility\obj\Debug\net5.0\Ferreteria.Utility.pdb
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.Utility\bin\Debug\net5.0\Ferreteria.Utility.deps.json
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.Utility\bin\Debug\net5.0\Ferreteria.Utility.dll
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.Utility\bin\Debug\net5.0\ref\Ferreteria.Utility.dll
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.Utility\bin\Debug\net5.0\Ferreteria.Utility.pdb
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.Utility\obj\Debug\net5.0\Ferreteria.Utility.csprojAssemblyReference.cache
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.Utility\obj\Debug\net5.0\Ferreteria.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.Utility\obj\Debug\net5.0\Ferreteria.Utility.AssemblyInfoInputs.cache
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.Utility\obj\Debug\net5.0\Ferreteria.Utility.AssemblyInfo.cs
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.Utility\obj\Debug\net5.0\Ferreteria.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.Utility\obj\Debug\net5.0\Ferreteria.Utility.dll
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.Utility\obj\Debug\net5.0\ref\Ferreteria.Utility.dll
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.Utility\obj\Debug\net5.0\Ferreteria.Utility.pdb
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.Utility\bin\Debug\net5.0\Ferreteria.Utility.deps.json
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.Utility\bin\Debug\net5.0\Ferreteria.Utility.dll
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.Utility\bin\Debug\net5.0\ref\Ferreteria.Utility.dll
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.Utility\bin\Debug\net5.0\Ferreteria.Utility.pdb
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.Utility\obj\Debug\net5.0\Ferreteria.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.Utility\obj\Debug\net5.0\Ferreteria.Utility.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.Utility\obj\Debug\net5.0\Ferreteria.Utility.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.Utility\obj\Debug\net5.0\Ferreteria.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.Utility\obj\Debug\net5.0\Ferreteria.Utility.dll
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.Utility\obj\Debug\net5.0\ref\Ferreteria.Utility.dll
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.Utility\obj\Debug\net5.0\Ferreteria.Utility.pdb
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.Utility\obj\Debug\net5.0\Ferreteria.Utility.csprojAssemblyReference.cache

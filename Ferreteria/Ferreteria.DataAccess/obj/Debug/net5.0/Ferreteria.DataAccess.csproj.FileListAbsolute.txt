@@ -1,0 +1,60 @@
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\Ferreteria.DataAccess.deps.json
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\Ferreteria.DataAccess.runtimeconfig.json
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\Ferreteria.DataAccess.runtimeconfig.dev.json
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\Ferreteria.DataAccess.dll
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\ref\Ferreteria.DataAccess.dll
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\Ferreteria.DataAccess.pdb
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\Ferreteria.Models.dll
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\Ferreteria.Utility.dll
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\Ferreteria.Models.pdb
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\Ferreteria.Utility.pdb
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\Ferreteria.DataAccess.csprojAssemblyReference.cache
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\Ferreteria.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\Ferreteria.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\Ferreteria.DataAccess.AssemblyInfo.cs
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\Ferreteria.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\Ferreteria.DataAccess.csproj.CopyComplete
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\Ferreteria.DataAccess.dll
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\ref\Ferreteria.DataAccess.dll
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\Ferreteria.DataAccess.pdb
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\Ferreteria.DataAccess.genruntimeconfig.cache
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\Ferreteria.DataAccess.deps.json
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\Ferreteria.DataAccess.runtimeconfig.json
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\Ferreteria.DataAccess.runtimeconfig.dev.json
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\Ferreteria.DataAccess.dll
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\ref\Ferreteria.DataAccess.dll
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\Ferreteria.DataAccess.pdb
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\Ferreteria.Models.dll
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\Ferreteria.Utility.dll
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\Ferreteria.Models.pdb
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\Ferreteria.Utility.pdb
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\Ferreteria.DataAccess.csprojAssemblyReference.cache
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\Ferreteria.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\Ferreteria.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\Ferreteria.DataAccess.AssemblyInfo.cs
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\Ferreteria.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\Ferreteria.DataAccess.csproj.CopyComplete
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\Ferreteria.DataAccess.dll
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\ref\Ferreteria.DataAccess.dll
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\Ferreteria.DataAccess.pdb
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\Ferreteria.DataAccess.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\Ferreteria.DataAccess.deps.json
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\Ferreteria.DataAccess.runtimeconfig.json
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\Ferreteria.DataAccess.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\Ferreteria.DataAccess.dll
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\ref\Ferreteria.DataAccess.dll
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\Ferreteria.DataAccess.pdb
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\Ferreteria.Models.dll
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\Ferreteria.Utility.dll
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\Ferreteria.Models.pdb
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.DataAccess\bin\Debug\net5.0\Ferreteria.Utility.pdb
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\Ferreteria.DataAccess.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\Ferreteria.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\Ferreteria.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\Ferreteria.DataAccess.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\Ferreteria.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\Ferreteria.DataAccess.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\Ferreteria.DataAccess.dll
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\ref\Ferreteria.DataAccess.dll
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\Ferreteria.DataAccess.pdb
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.DataAccess\obj\Debug\net5.0\Ferreteria.DataAccess.genruntimeconfig.cache

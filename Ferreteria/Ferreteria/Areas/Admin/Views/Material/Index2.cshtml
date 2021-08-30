@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Ferreteria.Models.Material>
+
+@{ ViewData["Title"] = "Listado de Materiales"; }
+
+<h1 class="text-center"><i class="fas fa-wrench"></i>Listado de Materiales</h1>
+
+<table class="table" id="tblMaterial">
+    <thead class="thead-light">
+        <tr>
+            <th>Materiales</th>
+            <th>Costos</th>
+            <th>
+                <a onclick="ShowPopup('@Url.Action("Upsert", "Material", null, Context.Request.Scheme)','Nuevo Material')" class="btn btn-success text-white">Nuevo Material</a>
+            </th>
+        </tr>
+    </thead>
+</table>
+
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial" />
+    <script type="text/javascript" src="~/js/material.js"></script>
+}

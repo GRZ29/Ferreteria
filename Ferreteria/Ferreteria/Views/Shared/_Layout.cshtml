@@ -1,0 +1,186 @@
+﻿@using Ferreteria.Utility
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] Ferreteria</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+
+    <link rel="preload" href="https://cdn.datatables.net/1.10.23/css/jquery.dataTables.min.css" data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css" />
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css" data-rocket-async="style" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+
+    <link rel="stylesheet" href="~/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-2/css/all.min.css">
+</head>
+<body>
+    <!--wrapper start-->
+    <div class="wrapper">
+        <!--header menu start-->
+        <div class="header justify-content-between">
+            <div class="header-menu">
+                <div class="title">Ferretería <span>Pg</span></div>
+                @*<div class="sidebar-btn">
+                        <i class="fas fa-bars"></i>
+                    </div>*@
+                @*<ul>
+                        <li><a href="#"><i class="fas fa-search"></i></a></li>
+                        <li><a href="#"><i class="fas fa-bell"></i></a></li>
+                        <li><a href="#"><i class="fas fa-power-off"></i></a></li>
+                    </ul>*@
+            </div>
+            @*<partial name="_LoginPartial" />*@
+        </div>
+        <!--header menu end-->
+        <!--sidebar start-->
+        @*@if (SignInManager.IsSignedIn(User))*@
+        @if (User.IsInRole(SD.Roles.Administrador))
+        {
+            <div class="sidebar">
+                <div class="sidebar-menu">
+                    <li class="item">
+                        <a href="#" class="menu-btn">
+                            <i class="fas fa-desktop">Áreas de @User.Identity.Name</i>
+                        </a>
+                    </li>
+                    <li class="item" id="profile">
+                        <a href="#profile" class="menu-btn">
+                            <i class="fas fa-users"></i><span>Clientes <i class="fas fa-chevron-down drop-down"></i></span>
+                        </a>
+                        <div class="sub-menu">
+                            <a asp-area="Admin" asp-controller="Cliente" asp-action="Index">Acciones</a>
+                        </div>
+                    </li>
+                    <li class="item" id="messages">
+                        <a href="#messages" class="menu-btn">
+                            <i class="fas fa-clipboard"></i><span>Trabajos <i class="fas fa-chevron-down drop-down"></i></span>
+                        </a>
+                        <div class="sub-menu">
+                            <a asp-area="Admin" asp-controller="Trabajo" asp-action="Index">Acciones</a>
+                        </div>
+                    </li>
+                    <li class="item" id="settings">
+                        <a href="#settings" class="menu-btn">
+                            <i class="fas fa-wrench"></i><span>Materiales <i class="fas fa-chevron-down drop-down"></i></span>
+                        </a>
+                        <div class="sub-menu">
+                            <a asp-area="Admin" asp-controller="Material" asp-action="Index2">Acciones</a>
+                        </div>
+                    </li>
+                    <li class="item" id="Materiales">
+                        <a href="#Materiales" class="menu-btn">
+                            <i class="fas fa-pen-square"></i><span>Calcular<i class="fas fa-chevron-down drop-down"></i></span>
+                        </a>
+                        <div class="sub-menu">
+                            <a asp-area="Admin" asp-controller="Material" asp-action="Index">Selección de Materiales</a>
+                        </div>
+                    </li>
+                    <li class="item" id="Calculos">
+                        <a href="#Calculos" class="menu-btn">
+                            <i class="fas fa-money-check-alt"></i><span>Totales<i class="fas fa-chevron-down drop-down"></i></span>
+                        </a>
+                        <div class="sub-menu">
+                            <a asp-area="Admin" asp-controller="Precio" asp-action="Index">Cálculos</a>
+                        </div>
+                    </li>
+                    <li class="item">
+                        <a href="#" class="menu-btn">
+                            <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                                <i class="fas fa-sign-out-alt"></i><span><button type="submit" style="color:white; background-color:#2f323a; text-decoration:none; border-radius:0px ;border: none;">Cerrar Sesión</button></span>
+                            </form>
+                        </a>
+                    </li>
+                </div>
+            </div>
+        }
+        else
+        {
+            <div class="sidebar">
+                <div class="sidebar-menu">
+                    <li class="item">
+                        <a href="#" class="menu-btn">
+                            <i class="fas fa-desktop"></i><span>Login</span>
+                        </a>
+                    </li>
+                    <li class="item" id="profile">
+                        <a href="#profile" class="menu-btn">
+                            <i class="fas fa-file-signature"></i><span>Registrar <i class="fas fa-chevron-down drop-down"></i></span>
+                        </a>
+                        <div class="sub-menu">
+                            <a asp-area="Identity" asp-page="/Account/Register">Register</a>
+                        </div>
+                    </li>
+                    <li class="item" id="messages">
+                        <a href="#messages" class="menu-btn">
+                            <i class="fas fa-sign-in-alt"></i><span>Login <i class="fas fa-chevron-down drop-down"></i></span>
+                        </a>
+                        <div class="sub-menu">
+                            <a asp-area="Identity" asp-page="/Account/Login">Login</a>
+                        </div>
+                    </li>
+                </div>
+            </div>
+        }
+        <!--sidebar end-->
+        <!--main container start-->
+        <div class="main-container">
+            @RenderBody()
+        </div>
+        <!--main container end-->
+    </div>
+    <!--wrapper end-->
+    @section Scripts
+         {
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" charset="utf-8"></script>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $(".sidebar-btn").click(function () {
+                    $(".wrapper").toggleClass("collapse");
+                });
+            });
+        </script>
+    }
+
+    <div class="modal" tabindex="-1" role="dialog" id="form-modal">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title"></h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="loaderbody" id="loaderbody">
+        <div class="loader"></div>
+    </div>
+
+
+    <!--<footer class="border-top footer text-muted">-->
+    @*Aqui va todo el final*@
+    <!--</footer>-->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

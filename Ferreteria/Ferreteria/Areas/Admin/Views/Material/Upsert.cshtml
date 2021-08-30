@@ -1,0 +1,37 @@
+﻿@model Ferreteria.Models.Material
+
+@{ Layout = null; }
+
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Upsert" asp-route-id="@Model.IdMaterial" onsubmit="return PostForm(this);">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdMaterial" />
+            <div class="form-group">
+                <label asp-for="NombreMaterial" class="control-label"></label>
+                <div class="input-group">
+                    <div class="input-group-prepend">
+                        <div class="input-group-text"></div>
+                    </div>
+                    <input asp-for="NombreMaterial" class="form-control" />
+                </div>
+                <span asp-validation-for="NombreMaterial" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CostoMaterial" class="control-label">Costo Material</label>
+                <div class="input-group">
+                    <div class="input-group-prepend">
+                        <div class="input-group-text"></div>
+                    </div>
+                    <input asp-for="CostoMaterial" class="form-control" />
+                </div>
+                <span asp-validation-for="CostoMaterial" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div class="col-md-6 offset-md-3">
+                    <input type="submit" value="Guardar" class="btn btn-primary btn-block" />
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

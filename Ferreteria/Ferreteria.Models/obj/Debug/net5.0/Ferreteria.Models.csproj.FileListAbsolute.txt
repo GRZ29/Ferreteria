@@ -1,0 +1,45 @@
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.Models\bin\Debug\net5.0\Ferreteria.Models.deps.json
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.Models\bin\Debug\net5.0\Ferreteria.Models.dll
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.Models\bin\Debug\net5.0\ref\Ferreteria.Models.dll
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.Models\bin\Debug\net5.0\Ferreteria.Models.pdb
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.Models\bin\Debug\net5.0\Ferreteria.Utility.dll
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.Models\bin\Debug\net5.0\Ferreteria.Utility.pdb
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.Models\obj\Debug\net5.0\Ferreteria.Models.csprojAssemblyReference.cache
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.Models\obj\Debug\net5.0\Ferreteria.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.Models\obj\Debug\net5.0\Ferreteria.Models.AssemblyInfoInputs.cache
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.Models\obj\Debug\net5.0\Ferreteria.Models.AssemblyInfo.cs
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.Models\obj\Debug\net5.0\Ferreteria.Models.csproj.CoreCompileInputs.cache
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.Models\obj\Debug\net5.0\Ferreteria.Models.csproj.CopyComplete
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.Models\obj\Debug\net5.0\Ferreteria.Models.dll
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.Models\obj\Debug\net5.0\ref\Ferreteria.Models.dll
+C:\Users\Azza i7\Pictures\Uplay\Proyecto\Ferreteria\Ferreteria.Models\obj\Debug\net5.0\Ferreteria.Models.pdb
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.Models\bin\Debug\net5.0\Ferreteria.Models.deps.json
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.Models\bin\Debug\net5.0\Ferreteria.Models.dll
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.Models\bin\Debug\net5.0\ref\Ferreteria.Models.dll
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.Models\bin\Debug\net5.0\Ferreteria.Models.pdb
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.Models\bin\Debug\net5.0\Ferreteria.Utility.dll
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.Models\bin\Debug\net5.0\Ferreteria.Utility.pdb
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.Models\obj\Debug\net5.0\Ferreteria.Models.csprojAssemblyReference.cache
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.Models\obj\Debug\net5.0\Ferreteria.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.Models\obj\Debug\net5.0\Ferreteria.Models.AssemblyInfoInputs.cache
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.Models\obj\Debug\net5.0\Ferreteria.Models.AssemblyInfo.cs
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.Models\obj\Debug\net5.0\Ferreteria.Models.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.Models\obj\Debug\net5.0\Ferreteria.Models.csproj.CopyComplete
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.Models\obj\Debug\net5.0\Ferreteria.Models.dll
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.Models\obj\Debug\net5.0\ref\Ferreteria.Models.dll
+C:\Users\Maria\Downloads\Ferreteria (1,)\Ferreteria\Ferreteria.Models\obj\Debug\net5.0\Ferreteria.Models.pdb
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.Models\bin\Debug\net5.0\Ferreteria.Models.deps.json
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.Models\bin\Debug\net5.0\Ferreteria.Models.dll
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.Models\bin\Debug\net5.0\ref\Ferreteria.Models.dll
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.Models\bin\Debug\net5.0\Ferreteria.Models.pdb
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.Models\bin\Debug\net5.0\Ferreteria.Utility.dll
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.Models\bin\Debug\net5.0\Ferreteria.Utility.pdb
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.Models\obj\Debug\net5.0\Ferreteria.Models.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.Models\obj\Debug\net5.0\Ferreteria.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.Models\obj\Debug\net5.0\Ferreteria.Models.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.Models\obj\Debug\net5.0\Ferreteria.Models.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.Models\obj\Debug\net5.0\Ferreteria.Models.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.Models\obj\Debug\net5.0\Ferreteria.Models.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.Models\obj\Debug\net5.0\Ferreteria.Models.dll
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.Models\obj\Debug\net5.0\ref\Ferreteria.Models.dll
+C:\Users\Administrador\Desktop\Ferreteria\Ferreteria\Ferreteria.Models\obj\Debug\net5.0\Ferreteria.Models.pdb
